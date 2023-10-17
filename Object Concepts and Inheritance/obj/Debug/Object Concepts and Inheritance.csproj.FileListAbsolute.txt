@@ -1,0 +1,3 @@
+C:\Users\Watari\source\repos\Object Concepts and Inheritance\obj\Debug\Object Concepts and Inheritance.csproj.AssemblyReference.cache
+C:\Users\Watari\source\repos\Object Concepts and Inheritance\obj\Debug\Object Concepts and Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Watari\source\repos\Object Concepts and Inheritance\obj\Debug\Object Concepts and Inheritance.csproj.CoreCompileInputs.cache
